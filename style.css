@@ -395,3 +395,7 @@ a {
   cursor: pointer;
   text-decoration: none;
 }/*# sourceMappingURL=style.css.map */
+
+p {
+  font-size: 10px;
+}
